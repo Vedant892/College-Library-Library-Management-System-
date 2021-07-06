@@ -1,0 +1,21 @@
+10. Blood Donation Database
+This database would store interrelated data on patients, blood donors, and blood banks. You can take a cue from the data points given below. 
+
+Patient’s Name, Unique ID, Blood group, and Disease
+Donor’s Name, Unique ID, Blood Group, Medical Report, Address, Contact Number
+Blood bank’s Name, Address, Blood banks’ donor details (name, address, contact number)
+Now, try to implement the same in a database by creating a schema, an Entity-Relationship (E-R) diagram, and then attempt normalizing it.
+
+
+
+
+
+In this database system, you need to model different train stations, railway tracks between connecting stations, the train details (a unique number for each train), rail routes and schedule of the trains, and passenger booking information. To simplify your project, you can assume that all the trains run every day and have only a one-day journey to their respective destinations. As for recording, you can focus on storing the following details for each station on a rail route: 
+
+In time: When the train arrives at a station
+Out time: When the train leaves a station (This would be the same as in-time if the train does not halt at a station)
+Station’s sequential number: The order of the station in the route
+
+
+
+Movie Theater management.
